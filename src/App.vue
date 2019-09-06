@@ -66,6 +66,8 @@
 		*/
 	}
 </script>
+
+
 <style>
 .col-md-6 .bullet {
 	width: 100%;
